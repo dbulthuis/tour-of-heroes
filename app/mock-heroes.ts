@@ -1,13 +1,13 @@
 import {Hero} from './hero';
 export var HEROES: Hero[] = [
-    {"id": 11, "name": "Mr. Nice"},
+    {"id": 11, "name": "Mr. Nice","isSecret":true},
     {"id": 12, "name": "Narco"},
-    {"id": 13, "name": "Bombasto"},
+    {"id": 13, "name": "Bombasto","isSecret":true},
     {"id": 14, "name": "Celeritas"},
-    {"id": 15, "name": "Magneta"},
+    {"id": 15, "name": "Magneta","isSecret":true},
     {"id": 16, "name": "RubberMan"},
-    {"id": 17, "name": "Dynama"},
+    {"id": 17, "name": "Dynama","isSecret":true},
     {"id": 18, "name": "Dr IQ"},
-    {"id": 19, "name": "Magma"},
+    {"id": 19, "name": "Magma","isSecret":true},
     {"id": 20, "name": "Tornado"}
 ];
